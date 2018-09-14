@@ -1,0 +1,12 @@
+-nav bar buttons: PropertiesX, LocationX, Lot MapX, Photo GalleryX, Links, HOA InformationX, Public ReportX, Real Estate AgentsX, BuildersX, Utility Providers, Community UpdatesX, Contact InformationX
+-Floral White 	255-250-240 	fffaf0
+-0/129/53 for green italic down fonts on nav buttons
+-font sizes 20 19 17
+-font size 15.8 for real estate agents
+-font size 15 for community updates
+
+-Focus on golf course green color and mountain sunset color.
+The themes is mountains, golf course and nature along with luxury living
+
+
+image map nav bar 150x378

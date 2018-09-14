@@ -1,0 +1,12 @@
+.utilitytitle {
+	font-style: italic;
+	text-decoration: underline;
+	font-size: 12px;
+}
+.utilitysmallfont {
+	font-size: 12px;
+}
+
+body {
+	background-size: cover;
+}
